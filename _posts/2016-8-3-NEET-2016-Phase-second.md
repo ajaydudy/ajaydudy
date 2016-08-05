@@ -1,6 +1,6 @@
- ---
+---
 layout: post
-title: National Eligibility cum Entrance Test
+title: Test Title
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
