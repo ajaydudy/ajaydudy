@@ -1,4 +1,13 @@
- 
+ ---
+layout: post
+title: National Eligibility cum Entrance Test
+---
+
+
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+
 NEET 2016 Phase 2 – National Eligibility cum Entrance Test
 
 CBSE will conduct NEET 2016 Phase 2 on July 24, 2016. National Eligibility cum Entrance Test or NEET 2016 Phase 2 is an all India level medical entrance exam. This is for All India quota medical seats, and state quota seats of those seats who will opt to offer admission on basis of NEET 2016 Phase 2 Result. After several court judgements and ordinances, the final details of NEET (UG) 2016 have been published by Central Board of Secondary Education.
